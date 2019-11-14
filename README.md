@@ -1,1 +1,2 @@
-# Python-od-podstaw
+# Python od podstaw
+## Repozytorium szkoleniowe dla CDV
